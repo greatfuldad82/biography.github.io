@@ -1,4 +1,4 @@
 # alex's portfolio 
-bonkers napunene, jojo daddyfavorite.
+bonkers napunene, into the sweet, blue ether.
 <img src="headshot.JPG" />
 
