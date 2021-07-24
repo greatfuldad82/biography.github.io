@@ -1,4 +1,4 @@
-# alex mitchell - developer
+# alex mitchell ; software developer
 ## specializing in the dark arts of javascript, css, html and digital art
 
 interests: 
