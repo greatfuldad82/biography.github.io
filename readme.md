@@ -1,5 +1,7 @@
-# ali_napunengus portfoliosmagnifique 
-This is one of the projects i recently worked on.  I hope to continue making animations and graphics, along with 3-D modeling and development in the arena of visual arts. 
+# alex mitchell - developer
+## specializing in the dark arts of javascript, css, html and digital art
+Nice to meet you. :)
+
 //<img src="headshot.JPG" />
 
 
