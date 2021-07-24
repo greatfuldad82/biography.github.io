@@ -2,7 +2,8 @@
 ## specializing in the dark arts of javascript, css, html and digital art
 Nice to meet you. :)
 
-![headshot 2](https://user-images.githubusercontent.com/84036991/126854902-d89fb23c-9bbe-40f6-aed2-2b1ee3605c6a.JPG)
+![headshot 2](https://user-images.githubusercontent.com/84036991/126854921-96d090e5-e19c-442f-bbf5-34ae9f631c54.JPG)
+
 
 
 
