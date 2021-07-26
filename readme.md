@@ -50,6 +50,7 @@
         </div>
       </nav>
 
+![headshot 2](https://user-images.githubusercontent.com/84036991/127053496-0d8d97e5-26ee-4a31-828b-6af6709138c9.JPG)
 
      
  </body>
