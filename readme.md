@@ -61,6 +61,6 @@
 
 
 
-![headshot 2](https://user-images.githubusercontent.com/84036991/126854921-96d090e5-e19c-442f-bbf5-34ae9f631c54.JPG) 
+
 
 
