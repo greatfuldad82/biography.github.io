@@ -1,8 +1,10 @@
+/* sensual stylings with alex mitchell - rarrrrrh */
+
 body { 
     background-image: url(AdobeStock_267368352.jpeg);
     /* o pelouringho menino da rua - malandro de verdad */
     background-size: auto;
-    z-index: -1;
+    z-index: 0;
     }
 
     .navbar {
@@ -42,3 +44,6 @@ body {
             border-radius: 20px;
             font-weight: bold;
           }
+
+          /* <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0"> */
